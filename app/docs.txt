@@ -1,0 +1,14 @@
+
+Create Repo from Command Line or Create on the Git Hub Dashboard:
+echo "# lakiller" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/chongobongo/lakiller.git
+git push -u origin main
+
+Then Push to Repogit remote add origin
+https://github.com/chongobongo/lakiller.git
+git branch -M main
+git push -u origin main
